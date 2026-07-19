@@ -1,18 +1,32 @@
-##Aleksandre (Alexander, Alex)
+# Hi, I'm Aleksandre Kvaliashvili 👋
 
-Aspiring Web and 3D Designer
+Medical Technology enthusiast, Software Developer, and Creative Technologist from Georgia 🇬🇪
 
-I'm a passionate student from Tbilisi, Georgia, dedicated to mastering web and 3D design. I'm constantly exploring new techniques and technologies to enhance my skills and create innovative projects.
+I build projects at the intersection of **medicine, software engineering, AI, automation, and 3D design**. My goal is to use technology to create solutions that improve people's lives.
 
-Skills:
+Currently exploring:
+- 🧬 Medical Technology & Healthcare Innovation
+- 🤖 AI Tools, Local LLMs & Automation
+- 💻 Full-Stack Development
+- 🎨 3D Design & Visualization with Blender
+- ⚡ IoT & Embedded Systems
 
-Web Design: HTML, CSS, JavaScript, PHP...
-3D Design: Blender, Unity, Unreal Engine.
-Connect:
+Technologies I work with:
+- JavaScript / TypeScript / Python
+- React / Next.js / Node.js
+- Firebase / Socket.io
+- Docker / Git / Linux
+- Blender / Three.js
+- Arduino & IoT
 
-Instagram: sandrokvali
-LinkedIn: Aleksandre Kvaliashvili
-Email: sandrokvali@gmail.com
+Beyond code:
+🎹 Pianist & singer with 7 years of musical experience  
+🏆 3rd place in programming at Komarovi STEM Competition  
+🎨 3D artist creating environments, interiors, and animations  
+🩺 Medical student interested in the future of healthcare technology
 
-Fun Fact:
-I can devour two shawarmas or 45 khinkalis in one sitting.
+I believe the most interesting ideas happen where different disciplines meet — where science, creativity, and engineering become something useful.
+
+🌐 Portfolio: https://kvali.dev  
+💼 LinkedIn: https://www.linkedin.com/in/aleksandre-kvaliashvili-1bb675315/  
+📫 Email: sandrokvali@gmail.com
